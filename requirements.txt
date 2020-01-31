@@ -1,0 +1,5 @@
+# Flask Framework
+Flask==1.1.1
+gunicorn==20.0.0
+Flask-Dance
+google-api-python-client
